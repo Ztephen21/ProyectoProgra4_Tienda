@@ -1,3 +1,4 @@
+
 <?php
 include('../dominio/Motorcycle.php');
 class consultasMotos{
@@ -98,3 +99,4 @@ class consultasMotos{
 
 
  ?>
+
