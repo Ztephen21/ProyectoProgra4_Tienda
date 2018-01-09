@@ -33,11 +33,18 @@
 
 			<label for="type">Tipo:</label>
 			<input type="text" id="type" name="type">
-		
+
 			<br/>
 			<br/>
 
-			<button type="submit" id="save" name="save">Guardar</button>
+			<label for="price">Precio:</label>
+			<input type="text" id="price" name="price">
+		
+			<br/>
+			<br/>
+			<input type="hidden" id="save" name="save">
+
+			<button type="submit" >Guardar</button>
 			
 		</form>
 
