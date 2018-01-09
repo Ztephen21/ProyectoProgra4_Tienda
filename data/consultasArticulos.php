@@ -84,7 +84,7 @@ class consultasArticulos{
            echo 'no se pudo acceder';
        }
        $conn->close();
-       return $HorarioDisponible;
+       return $todosArticulos;
    }
 
 
